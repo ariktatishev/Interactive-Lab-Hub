@@ -75,6 +75,56 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
+### _Storyboards_
+1. Brushing Teeth Timer
+
+* _Setting:_ Bathroom
+* _Players:_ Anyone who is brushing their teeth
+* _Activity:_ The actor is brushing their teeth
+* _Goals:_ The goal is to brush every quadrant of the mouth for at least 30 seconds
+
+2. Tupperware Status Indicator
+
+* _Setting:_ Kitchen
+* _Players:_ People who frequently use the fridge but forget about food expiration dates
+* _Activity:_ Actor puts away leftovers or restocks the fridge in tupperware containers
+* _Goals:_ To have a quick understanding which food needs to be used first
+
+3. Water fountain level indicator
+
+* _Setting:_ Any place that has water fountain for cats
+* _Players:_ Cat owners, cats
+* _Activity:_ Actor waves their foot at the fountain to gage the water level of the fountain, then refills if needed
+* _Goals:_ To make sure that the cat has enough water in their fountain
+
+4. Indoor AQI Indicator
+
+* _Setting:_ Any room with a window that can open
+* _Players:_ Any person who is conscious of air quality
+* _Activity:_ Actor checks the AQI reading of the room and opens the window
+* _Goals:_ To get fresh clean air and improve the air quality of the room
+
+5. "Last time I took my meds" indicator
+
+* _Setting:_ Kitchen, medicine cabinet
+* _Players:_ People who take medication often
+* _Activity:_ Actor picks up their pillbox and takes their meds
+* _Goals:_ To make sure that a person does not take double dosage of their medication
+
+6. Oven state indicator
+
+* _Setting:_ Kitchen
+* _Players:_ People who have old ovens without heat indicators
+* _Activity:_ Actor preheats their oven
+* _Goals:_ To know when the oven reaches the set temperature
+
+7. Water Drinking Reminder
+
+* _Setting:_ Any place a water bottle can be
+* _Players:_ People who have trouble with drinking water
+* _Activity:_ Person lifts their bottle, unscrews it and drinks from it
+* _Goals:_ To have reminders to drink the water
+
 \*\***Include pictures of your storyboards here**\*\*
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
@@ -90,6 +140,64 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+#### 1. Brushing Teeth Timer
+
+*Things that seemed better on paper:*
+* If you're not paying attention to the light, you might miss the flash of color to change the sides.
+* You would need at least 5 seconds before picking up the brush and actually brushing the teeth, to put the toothpaste on. The timer should not start immediately
+
+*Ideas that came up from the acting:*
+* Have a sequence of lights that are associated with every quadrant of the mouth, so after the flash, it changes to that color
+* Have a cooldown period between picking up the brush and brushing the teeth
+
+#### 2. Tupperware Status Indicator
+
+*Things that seemed better on paper:*
+* Depending on how many days you set for the lid, the lid will only change color after exactly 24 hours
+
+*Ideas that came up from the acting:*
+* A continuous color change is better than the discreet color change as a progress bar of an item's shelf life
+
+#### 3. Water fountain level indicator
+
+*Things that seemed better on paper:*
+* Pets will activate the sensor and may be startled
+
+*Ideas that came up from the acting:*
+* Change the display from sensor activated screen to a small LED on the outside of the fountain. That way pets won't be startled
+
+#### 4. Indoor AQI Indicator
+
+*Things that seemed better on paper:*
+* It does not show the outside AQI, so even if the air is bad inside, it could be worse outside
+
+*Ideas that came up from the acting:*
+* Have 2 screens or display outputs. One for indoor and one for outdoor.
+
+#### 5. "Last time I took my meds" indicator
+
+*Things that seemed better on paper:*
+* Initially having the sensor be on the location of the pill bottle seemed like a good idea, but one could pick up the bottle without taking pills
+
+*Ideas that came up from the acting:*
+* Having the indicator on the screwcaps is better because if the bottle is unscrewed it means it was used
+* Having a continuous color change to reflect how long ago the pill was taken
+
+#### 6. Oven state indicator
+
+*Things that seemed better on paper:*
+* None
+
+*Ideas that came up from the acting:*
+* None
+
+#### 7. Water Drinking Reminder
+
+*Things that seemed better on paper:*
+* It does not account for the amount of water drank
+
+*Ideas that came up from the acting:*
+* Rather than being affected by the gravity sensor, it's easier to just use the screwcap reset position as a sensor
 
 ## Part C. Prototype the device
 
@@ -102,6 +210,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+_Feedback:_ The tool is very easy to use. I wish that the audio part was more intuitive in terms of which result to pick from the website. 
 
 
 ## Part D. Wizard the device
@@ -109,10 +218,21 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
+#### 1. Brushing Teeth Timer
+Setup Video:
+Paper Prototype:
+
+#### 2. Tupperware Status Indicator
+Setup Video:
+Paper Prototype:
+
+#### 3. "Last time I took my meds" indicator
+Setup Video:
+Paper Prototype:
 
 ## Part E. Costume the device
 
