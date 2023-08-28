@@ -88,12 +88,16 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor puts away leftovers or restocks the fridge in tupperware containers
 * _Goals:_ To have a quick understanding which food needs to be used first
 
+![alt text](./IMG_9522.jpeg)
+
 3. Water fountain level indicator
 
 * _Setting:_ Any place that has water fountain for cats
 * _Players:_ Cat owners, cats
 * _Activity:_ Actor waves their foot at the fountain to gage the water level of the fountain, then refills if needed
 * _Goals:_ To make sure that the cat has enough water in their fountain
+
+![alt text](./IMG_9523.jpeg)
 
 4. Indoor AQI Indicator
 
@@ -102,12 +106,16 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor checks the AQI reading of the room and opens the window
 * _Goals:_ To get fresh clean air and improve the air quality of the room
 
+![alt text](./IMG_9524.jpeg)
+
 5. "Last time I took my meds" indicator
 
 * _Setting:_ Kitchen, medicine cabinet
 * _Players:_ People who take medication often
 * _Activity:_ Actor picks up their pillbox and takes their meds
 * _Goals:_ To make sure that a person does not take double dosage of their medication
+
+![alt text](./IMG_9525.jpeg)
 
 6. Oven state indicator
 
@@ -116,12 +124,16 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor preheats their oven
 * _Goals:_ To know when the oven reaches the set temperature
 
+![alt text](./IMG_9526.jpeg)
+
 7. Water Drinking Reminder
 
 * _Setting:_ Any place a water bottle can be
 * _Players:_ People who have trouble with drinking water
 * _Activity:_ Person lifts their bottle, unscrews it and drinks from it
 * _Goals:_ To have reminders to drink the water
+
+![alt text](./IMG_9527.jpeg)
 
 \*\***Include pictures of your storyboards here**\*\*
 
@@ -221,19 +233,43 @@ Now, change the goal within the same setting, and update the interaction with th
 \*\***Show the follow-up work here.**\*\*
 
 #### 1. Brushing Teeth Timer
-[Setup Video](https://youtube.com/shorts/JmJo6OeDEMM?feature=share)
+Setup Video:
 
-[Paper Prototype](https://youtube.com/shorts/46aALcF1i1g?feature=share)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JmJo6OeDEMM
+" target="_blank"><img src="http://img.youtube.com/vi/JmJo6OeDEMM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Paper Prototype:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=46aALcF1i1g
+" target="_blank"><img src="http://img.youtube.com/vi/46aALcF1i1g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### 2. Tupperware Status Indicator
-[Setup Video](https://youtube.com/shorts/JH1ugkGgCeE?feature=share)
+Setup Video:
 
-[Paper Prototype](https://youtube.com/shorts/JH1ugkGgCeE?feature=share)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JH1ugkGgCeE
+" target="_blank"><img src="http://img.youtube.com/vi/JH1ugkGgCeE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Paper Prototype:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JH1ugkGgCeE
+" target="_blank"><img src="http://img.youtube.com/vi/JH1ugkGgCeE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### 3. "Last time I took my meds" indicator
-[Setup Video](https://youtube.com/shorts/CsAz0ECZUds?feature=share)
+Setup Video:
 
-[Paper Prototype](https://youtu.be/85rA8DrfEy4)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CsAz0ECZUds
+" target="_blank"><img src="http://img.youtube.com/vi/CsAz0ECZUds/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Paper Prototype:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=85rA8DrfEy4
+" target="_blank"><img src="http://img.youtube.com/vi/85rA8DrfEy4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Part E. Costume the device
 
@@ -265,13 +301,25 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 #### 1. Brushing Teeth Timer
-[Prototyped Interaction](https://youtu.be/ONqQ2JNwh7E)
+Prototyped Interaction:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ONqQ2JNwh7E
+" target="_blank"><img src="http://img.youtube.com/vi/ONqQ2JNwh7E/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### 2. Tupperware Status Indicator
-[Prototyped Interaction](https://youtu.be/g4n79QMQoBo)
+Prototyped Interaction:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=g4n79QMQoBo
+" target="_blank"><img src="http://img.youtube.com/vi/g4n79QMQoBo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### 3. "Last time I took my meds" indicator
-[Prototyped Interaction](https://youtu.be/XxM9GkSe7JU)
+Prototyped Interaction:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XxM9GkSe7JU
+" target="_blank"><img src="http://img.youtube.com/vi/XxM9GkSe7JU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
