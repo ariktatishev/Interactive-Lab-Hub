@@ -2,8 +2,6 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATORS HERE**\*\*
-
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
 There is no actor that plays Tinkerbell--her existence in the play comes from the interactions that the other characters have with her.
@@ -223,16 +221,19 @@ Now, change the goal within the same setting, and update the interaction with th
 \*\***Show the follow-up work here.**\*\*
 
 #### 1. Brushing Teeth Timer
-Setup Video:
-Paper Prototype:
+[Setup Video](https://youtube.com/shorts/JmJo6OeDEMM?feature=share)
+
+[Paper Prototype](https://youtube.com/shorts/46aALcF1i1g?feature=share)
 
 #### 2. Tupperware Status Indicator
-Setup Video:
-Paper Prototype:
+[Setup Video](https://youtube.com/shorts/JH1ugkGgCeE?feature=share)
+
+[Paper Prototype](https://youtube.com/shorts/JH1ugkGgCeE?feature=share)
 
 #### 3. "Last time I took my meds" indicator
-Setup Video:
-Paper Prototype:
+[Setup Video](https://youtube.com/shorts/CsAz0ECZUds?feature=share)
+
+[Paper Prototype](https://youtu.be/85rA8DrfEy4)
 
 ## Part E. Costume the device
 
@@ -241,17 +242,44 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+#### 1. Brushing Teeth Timer 
+![alt text](./IMG_9514.jpeg)
+
+#### 2. Tupperware Status Indicator
+![alt text](./IMG_9513.jpeg)
+
+#### 3. "Last time I took my meds" indicator
+![alt text](./IMG_9515.jpeg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+#### 1. Brushing Teeth Timer 
+* The shape of the phone boxed me into the idea that the device should be rectangular
 
+#### 2. Tupperware Status Indicator
+* The size of the tupperware lid is vital indicator of how big I can make the device
+
+#### 3. "Last time I took my meds" indicator
+* Small openings and safety caps of pill bottles have influenced the size and shape of the device
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+#### 1. Brushing Teeth Timer
+[Prototyped Interaction](https://youtu.be/ONqQ2JNwh7E)
+
+#### 2. Tupperware Status Indicator
+[Prototyped Interaction](https://youtu.be/g4n79QMQoBo)
+
+#### 3. "Last time I took my meds" indicator
+[Prototyped Interaction](https://youtu.be/XxM9GkSe7JU)
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+I want to thank my girlfriend Jinny for filming and operating tinkerbelle while I was in the spotlight of the camera.
+
+And Coco, for starring at the start of every prototype interaction
 
 
 # Staging Interaction, Part 2 
