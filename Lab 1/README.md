@@ -81,6 +81,8 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ The actor is brushing their teeth
 * _Goals:_ The goal is to brush every quadrant of the mouth for at least 30 seconds
 
+![alt text](./IMG_9522.jpeg)
+
 2. Tupperware Status Indicator
 
 * _Setting:_ Kitchen
@@ -88,7 +90,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor puts away leftovers or restocks the fridge in tupperware containers
 * _Goals:_ To have a quick understanding which food needs to be used first
 
-![alt text](./IMG_9522.jpeg)
+![alt text](./IMG_9523.jpeg)
 
 3. Water fountain level indicator
 
@@ -97,7 +99,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor waves their foot at the fountain to gage the water level of the fountain, then refills if needed
 * _Goals:_ To make sure that the cat has enough water in their fountain
 
-![alt text](./IMG_9523.jpeg)
+![alt text](./IMG_9524.jpeg)
 
 4. Indoor AQI Indicator
 
@@ -106,7 +108,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor checks the AQI reading of the room and opens the window
 * _Goals:_ To get fresh clean air and improve the air quality of the room
 
-![alt text](./IMG_9524.jpeg)
+![alt text](./IMG_9525.jpeg)
 
 5. "Last time I took my meds" indicator
 
@@ -115,7 +117,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor picks up their pillbox and takes their meds
 * _Goals:_ To make sure that a person does not take double dosage of their medication
 
-![alt text](./IMG_9525.jpeg)
+![alt text](./IMG_9526.jpeg)
 
 6. Oven state indicator
 
@@ -124,7 +126,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Actor preheats their oven
 * _Goals:_ To know when the oven reaches the set temperature
 
-![alt text](./IMG_9526.jpeg)
+![alt text](./IMG_9527.jpeg)
 
 7. Water Drinking Reminder
 
@@ -133,7 +135,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 * _Activity:_ Person lifts their bottle, unscrews it and drinks from it
 * _Goals:_ To have reminders to drink the water
 
-![alt text](./IMG_9527.jpeg)
+![alt text](./IMG_9528.jpeg)
 
 \*\***Include pictures of your storyboards here**\*\*
 
