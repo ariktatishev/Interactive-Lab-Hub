@@ -343,6 +343,8 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Feedback: Really thought out videos. I really like the med box idea, it is very useful. Also really good video showing the setups. 
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
