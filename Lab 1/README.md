@@ -345,6 +345,11 @@ You will be assigned three partners from another group. Go to their github pages
 
 Feedback: Really thought out videos. I really like the med box idea, it is very useful. Also really good video showing the setups. 
 
+Ifeng: Wow I really like the storyboard which clearly shows the idea of your applications. The idea of “Last time I took my meds” indicator is really easy and interesting since I always forget if I take my medicine or not. It could be nice if this device allows you to set a time reminder so next time when you need to take the pill there will be a beep sound that reminds you to take it.
+
+Yunfei Jiao: The food expiration idea is really good and I can see how useful it will be. It would be cool if there’s a knob that you could set the time with a simple turn. 
+
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
