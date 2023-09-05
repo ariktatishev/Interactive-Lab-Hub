@@ -343,7 +343,7 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
-Feedback: Really thought out videos. I really like the med box idea, it is very useful. Also really good video showing the setups. 
+Kazim: Really thought out videos. I really like the med box idea, it is very useful. Also really good video showing the setups. 
 
 Ifeng: Wow I really like the storyboard which clearly shows the idea of your applications. The idea of “Last time I took my meds” indicator is really easy and interesting since I always forget if I take my medicine or not. It could be nice if this device allows you to set a time reminder so next time when you need to take the pill there will be a beep sound that reminds you to take it.
 
