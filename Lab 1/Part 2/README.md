@@ -15,9 +15,11 @@ Arystan Tatishev (at855)
 \*\***Summarize feedback from your partners here.**\*\*
 
 Feedback:
-1. Lots of effort, it's pretty clear and that's good but it didn't have to be. Liked editing of the video, it's one video instead of several, could explain the activity and role more in the storyboards, but is a pretty strong lab overall.
-2. The first two interactions are interesting and novel, and can dig deeper into what kind of treasure it is and explain more of it. For the trash sorter, I think it’s a useful idea I would like to have in real life. In the video, it is easier for people to identify which type of the items are. Awesome idea!
-3. I think the trash sorting device is useful when people don’t throw trash according to the trash cans. The way that the trash sorting device is customized could be improved a bit. I would look forward to seeing more storyboards being acted out, especially the Smartplant reader one. 
+Kazim: Really thought out videos. I really like the med box idea, it is very useful. Also really good video showing the setups.
+
+Ifeng: Wow I really like the storyboard which clearly shows the idea of your applications. The idea of “Last time I took my meds” indicator is really easy and interesting since I always forget if I take my medicine or not. It could be nice if this device allows you to set a time reminder so next time when you need to take the pill there will be a beep sound that reminds you to take it.
+
+Yunfei Jiao: The food expiration idea is really good and I can see how useful it will be. It would be cool if there’s a knob that you could set the time with a simple turn.
 
 ## Make it your own
 
