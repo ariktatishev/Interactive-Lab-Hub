@@ -1,5 +1,10 @@
 # Interactive Prototyping: The Clock of Pi
 **NAMES OF COLLABORATORS HERE**
+Kazim Jafri (khj23)
+Rei Chen (rc884)
+Zixin Li (zl865)
+Rowan Wu (rww99)
+Arystan Tatishev (at855)
 
 Does it feel like time is moving strangely during this semester?
 
@@ -23,7 +28,7 @@ Before the start of lab Thursday, [pull changes from the Interactive Lab Hub](ht
 
   ```
   Interactive-Lab-Hub $ git remote add upstream https://github.com/FAR-Lab/Interactive-Lab-Hub.git
-  Interactive-Lab-Hub $ git pull upstream Fall2022
+  Interactive-Lab-Hub $ git pull upstream Fall2023
   ```
   
   The reason why we are adding a upstream with **course lab-hub** instead of yours is because the local Interactive-Lab-Hub folder is linked with your own git repo already. Try typing ``git remote -v`` and you should see there is the origin branch with your own git repo. We here add the upstream to get latest updates from the teaching team by pulling the **course lab-hub** to your local machine. After your local folder got the latest updates, push them to your remote git repo by running:
@@ -193,11 +198,36 @@ Does time have to be linear?  How do you measure a year? [In daylights? In midni
 Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
+Ideas for our clock:
+1. A clock that shows time since the beginning of a year and time until the end of the same year. 
+<img width="500" height="500" src="imageslab2sketch/1.jpg/">
 
+3. A clock that shows time depending on the depature and arrivial of ferries in NYC.
+Version 1: Displays ferry on water with time at top.
+<img width="500" src="imageslab2sketch/7.jpg/">
+
+Version 2: Displays ferry moving towards docks.
+<img src="imageslab2sketch/3.jpg/">
+
+Version 3: Displays map of areas in NYC and shows the routes of ferries. 
+<img width="500" height="500" src="imageslab2sketch/4.jpg/">
+ 
+4. A clock that displays day of a cat.
+Version 1: Displays the time since and until the next feeding of the cat.
+<img width="500" height="500" src="imageslab2sketch/5.jpg/">
+
+Version 2: Displays the sleeping and fedding time of the cat.
+
+<img width="500" src="imageslab2sketch/6.jpg/">
+   
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+
+The name of our code: Lab2.py
+
+Link: https://github.com/zl2877/Interactive-Lab-Hub/blob/Fall2023/Lab%202/Lab2.py
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -214,6 +244,11 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+Our clock: https://youtu.be/aoxyngLTMCs
+
+This clock displays the time since the beginning of a year, and the time until the next year. 
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
