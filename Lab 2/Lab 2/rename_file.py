@@ -15,11 +15,11 @@ def ProcessTime(month):
 
 
 def GetFruitImage(season, fruit):
-  return f"{season.lower()}{fruit}.png"
+  return f"./fruit/{season.lower()}{fruit}.png"
 
 
 def GetSeasonImage(season):
-  return f"{season.lower()}.png"
+  return f"./background/{season.lower()}.png"
 
 cutoff_start = {
   0: datetime(2023, 12, 1),

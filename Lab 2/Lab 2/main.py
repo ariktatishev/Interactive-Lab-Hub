@@ -4,6 +4,7 @@ import board
 from PIL import Image, ImageDraw, ImageFont
 import adafruit_rgb_display.st7789 as st7789
 from datetime import datetime
+from fruits_clock_image import display_image_and_text
 
 # Configuration for CS and DC pins (these are FeatherWing defaults on M0/M4):
 cs_pin = digitalio.DigitalInOut(board.CE0)
@@ -127,15 +128,6 @@ while True:
     
 
 
-    # DRAWING IT ALL #TODO
-    # Stack Images
+    display_image_and_text(seasonImage, fruitImage, text_output)
 
-    # Draw a black filled box to clear the image.
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)
-
-    y = top
-    draw.text((x, y), "Text", font=font, end="", flush=True, fill="#FFFFFF")
-
-    # Display image.
-    disp.image(image, rotation)
     time.sleep(0.01)
