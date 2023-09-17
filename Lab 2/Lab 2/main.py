@@ -67,7 +67,7 @@ buttonB.switch_to_input()
 
 
 
-from rename_file import GetTime, ProcessTime, GetFruits, GetFruitImage, GetSeasonImage
+from rename_file import GetTime, ProcessTime, Timer, GetFruitImage, GetSeasonImage
 
 fruitIndex = 0
 curr_month = GetTime()
@@ -121,8 +121,9 @@ while True:
         # Special Thing
         time.sleep(0.5)
 
-    fruitImage = GetFruitImage(fruits[fruitIndex])
+    fruitImage = GetFruitImage(seasons[seasonIndex], fruits[fruitIndex])
     seasonImage = GetSeasonImage(seasons[seasonIndex])
+    text_output = Timer(curr_month, seasonIndex)
     
 
 

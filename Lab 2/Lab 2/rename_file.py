@@ -14,12 +14,12 @@ def ProcessTime(month):
         return 3
 
 
-def GetFruitImage():
-  pass
+def GetFruitImage(season, fruit):
+  return f"{season.lower()}{fruit}.png"
 
 
-def GetSeasonImage():
-  pass
+def GetSeasonImage(season):
+  return f"{season.lower()}.png"
 
 cutoff_start = {
   0: datetime(2023, 12, 1),
