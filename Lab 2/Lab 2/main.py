@@ -93,20 +93,21 @@ fruitdict = {"Winter": ["Pomegranate",
 
 while True:
 
-    curr_month, curr_day = GetTime()
+    curr_month = GetTime()
     fruits = fruitdict[seasons[seasonIndex]]
 
     if buttonA.value and buttonB.value:
-
+        continue
         # Do Nothing
-        time.sleep(0.5)
+        # time.sleep(0.5)
 
     # just button A pressed
     # Loops through the fruits
+    
     elif not buttonA.value and buttonB.value:
 
         fruitIndex = (fruitIndex + 1) % len(fruits)
-        time.sleep(0.5)
+        # time.sleep(0.5)
 
     # just button B pressed
     # Loops through the seasons
@@ -115,12 +116,12 @@ while True:
         seasonIndex = (seasonIndex + 1) % len(seasons)
         fruits = fruitdict[seasons[seasonIndex]]
         fruitIndex = 0
-        time.sleep(0.5)
+        # time.sleep(0.5)
 
     else:
-
+        pass
         # Special Thing
-        time.sleep(0.5)
+        # time.sleep(0.5)
 
     fruitImage = GetFruitImage(seasons[seasonIndex], fruits[fruitIndex])
     seasonImage = GetSeasonImage(seasons[seasonIndex])
@@ -130,4 +131,4 @@ while True:
 
     display_image_and_text(seasonImage, fruitImage, text_output)
 
-    time.sleep(0.01)
+    time.sleep(0.1)

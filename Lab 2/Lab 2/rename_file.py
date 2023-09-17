@@ -1,7 +1,7 @@
 from datetime import datetime
 
 def GetTime():
-  return datetime.now().month, datetime.now().day
+  return datetime.now().month
 
 def ProcessTime(month):
     if month < 3 or month == 12:
@@ -19,7 +19,7 @@ def GetFruitImage(season, fruit):
 
 
 def GetSeasonImage(season):
-  return f"./background/{season.lower()}.png"
+  return f"./background/{season.lower()}.JPG"
 
 cutoff_start = {
   0: datetime(2023, 12, 1),
@@ -37,19 +37,19 @@ cutoff_end = {
 
 
 def DaysUntil(index):
-
+    seasons = ["Winter", "Spring", "Summer", "Autumn"]
     today = datetime.now()
-    next_season = cutoff_start(index)
+    next_season = cutoff_start[index]
     time_until = next_season - today
-    return f"{time_until.days} Days Left in Season"
+    return f"{time_until.days} Days Until {seasons[index]}"
 
 
 def DaysLeft(index):
-
+  seasons = ["Winter", "Spring", "Summer", "Autumn"]
   today = datetime.now()
-  end_season = cutoff_end(index)
+  end_season = cutoff_end[index]
   time_left = end_season - today
-  return f"{time_left.days} Days Left in Season"
+  return f"{time_left.days} Days Left in {seasons[index]}"
 
 def Timer(month, seasonIndex):
 

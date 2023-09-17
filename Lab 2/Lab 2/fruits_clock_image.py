@@ -89,8 +89,8 @@ def display_image_and_text(background_file, fruit_file, text):
     font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 10)
     # Drawing the provided text at the center of the image
     draw = ImageDraw.Draw(image)  # Create a new ImageDraw object for the combined image
-    text_width, text_height = draw.textsize(text, font=font)
-    text_x = (width - text_width) // 2 + 5
+    # text_width, text_height = draw.textsize(text, font=font)
+    text_x = 60
     text_y = 2
     draw.text((text_x, text_y), text, font=font, fill="white")
 
@@ -100,4 +100,4 @@ def display_image_and_text(background_file, fruit_file, text):
 
 
 # Example usage:
-display_image_and_text("images/background/spring.JPG", "images/fruits/summerWatermelon.png", "100 DAYS UNTIL NEXT SEASON")
+# display_image_and_text("images/background/spring.JPG", "images/fruits/summerWatermelon.png", "100 DAYS UNTIL NEXT SEASON")
